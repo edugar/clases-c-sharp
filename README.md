@@ -1,2 +1,1 @@
-# clases-c-sharp
-Curso de introduccion a la programación en C Sharp
+# Curso de introducción a la programación C Sharp
